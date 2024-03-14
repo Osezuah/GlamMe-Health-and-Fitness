@@ -1,0 +1,25 @@
+   
+/*WELCOME PAGE STYLES*/
+.welcomeH1{
+    font-family: Georgia, serif;
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    padding: 10px 0px 5px;
+    margin-top: 200px;
+}
+
+.welcomeBackground{
+    background-color: violet;
+    background-image: url(../images/trans\ bagrnd\ 1024px\ glamme\ cartoon.png);
+    background-size: 65%;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+a.format{
+    color: black;
+    font-family: Georgia, serif;
+    font-size: 25px;
+    padding: 0px 0px 0px 550px;
+}
